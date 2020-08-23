@@ -1,0 +1,4 @@
+{
+    "mongoURL": "mongodb+srv://hanwen:1234@hanwen.jjxuo.mongodb.net/shopping?retryWrites=true&w=majority",
+    "jwtSecret": "sl_myJwtSecret"
+}
